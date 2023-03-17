@@ -6,3 +6,4 @@
 
 # Games to try
 * [MarioKart](https://github.com/s4rd0n1k/pygame_mariokart)
+* [Blinka Jump](https://learn.adafruit.com/blinka-jump-pybadge-game/coding-the-pybadge)
